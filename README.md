@@ -1,4 +1,4 @@
-# Modelling Cryptographic Distinguishers Using Machine Learning - Code 
+# Modelling Cryptographic Distinguishers Using Machine Learning 
 
 ---
 
